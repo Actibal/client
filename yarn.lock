@@ -8889,15 +8889,15 @@ recast@~0.11.12:
     private "~0.1.5"
     source-map "~0.5.0"
 
-recharts-scale@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/recharts-scale/-/recharts-scale-0.4.0.tgz#a8dca2b32abc4c68ee0a214e6376b7af3e04513c"
+recharts-scale@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/recharts-scale/-/recharts-scale-0.4.2.tgz#b66315d985cd9b80d5f7d977a5aab9a305abc354"
   dependencies:
     decimal.js-light "^2.4.1"
 
-recharts@1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/recharts/-/recharts-1.3.1.tgz#db15402d333cd9e2c93e24d266d4aa76e1dc03c5"
+recharts@1.3.3:
+  version "1.3.3"
+  resolved "https://registry.yarnpkg.com/recharts/-/recharts-1.3.3.tgz#1b90b48a5968e9138ca57e75b0caf4d00a6008d0"
   dependencies:
     classnames "~2.2.5"
     core-js "~2.5.1"
@@ -8908,7 +8908,7 @@ recharts@1.3.1:
     prop-types "~15.6.0"
     react-resize-detector "~2.3.0"
     react-smooth "~1.0.0"
-    recharts-scale "^0.4.0"
+    recharts-scale "^0.4.2"
     reduce-css-calc "~1.3.0"
 
 recompose@0.30.0:
